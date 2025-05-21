@@ -35,6 +35,7 @@
   },
   "name":"Projeto_Fruta",
   "resources":[
+    {"id":{"name":"Check List","path":"notes/Check List/Check List.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "resourceType":"GMProject",

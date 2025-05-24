@@ -1,0 +1,9 @@
+speed = 10;
+direction = image_angle;
+bullet_damage = 5;
+bullet_ranged = 500;
+bullet_distance_traveled = 0
+spr_bullet = noone;
+img_bullet = noone;
+sprite_index = spr_bullet;
+image_index = img_bullet;

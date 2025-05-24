@@ -1,9 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_bullet",
-  "eventList":[],
+  "%Name":"obj_weapon_father",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_bullet",
+  "name":"obj_weapon_father",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",

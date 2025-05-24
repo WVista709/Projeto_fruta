@@ -38,8 +38,7 @@
   "resources":[
     {"id":{"name":"Check List","path":"notes/Check List/Check List.yy",},},
     {"id":{"name":"obj_abacaxi","path":"objects/obj_abacaxi/obj_abacaxi.yy",},},
-    {"id":{"name":"obj_arma","path":"objects/obj_arma/obj_arma.yy",},},
-    {"id":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},},
+    {"id":{"name":"obj_protagonist","path":"objects/obj_protagonist/obj_protagonist.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_abacaxi_back","path":"sprites/spr_abacaxi_back/spr_abacaxi_back.yy",},},
     {"id":{"name":"spr_abacaxi_front","path":"sprites/spr_abacaxi_front/spr_abacaxi_front.yy",},},

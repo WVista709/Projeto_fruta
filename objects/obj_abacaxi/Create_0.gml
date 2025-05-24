@@ -1,19 +1,11 @@
+// Inherit the parent event
+event_inherited();
+
 //Velocidades
 velocity_base = 12;
 velocity = velocity_base;
 speedx = 0;
 speedy = 0;
-
-//Armas
-weapon_present = noone;
-weapon_equip = noone;
-
-enum States { IDLE, MOVE }
-state = States.IDLE;
-
-// Direções
-enum Directions { FRONT, BACK, LEFT, RIGHT }
-direction = Directions.FRONT;
 
 //Sprite por direção
 spr_front = spr_abacaxi_front;
@@ -30,6 +22,4 @@ img_idle_end   = [0, 0, 0, 0];
 img_walk_start = [1, 1, 1, 1];
 img_walk_end   = [7, 7, 7, 7];
 
-//Sprite atual
-spr_present = spr_front;
-sprite_index = spr_present;
+sprite_index = spr_front;

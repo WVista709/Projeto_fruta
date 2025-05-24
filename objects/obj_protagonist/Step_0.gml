@@ -5,8 +5,7 @@ _key_up = keyboard_check(ord("W"));
 _key_left = keyboard_check(ord("A"));
 _key_right = keyboard_check(ord("D"));
 
-show_debug_message(sprite_height);
-show_debug_message(sprite_width);
+show_debug_message(weapon_equip);
 
 state = (_key_down || _key_up || _key_left || _key_right) ? States.MOVE : States.IDLE;
 

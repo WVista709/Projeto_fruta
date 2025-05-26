@@ -1,0 +1,25 @@
+DEVLOG – 21/05/2025
+Inicialização do projeto
+1.	Criando as sprites do abacaxi – 22/05/2025 - Massani
+1.1.	Ideli – Concluído 23/05/2025
+1.2.	Walk front – Concluído 23/05/2025
+1.3.	Walk side – Concluído 23/05/2025
+1.4.	Walk back – Concluído 23/05/2025
+
+2.	Desenvolvendo o primeiro personagem – 22/05/2025 - Massani
+2.1.	Criando objeto – Concluído 23/05/2025
+2.2.	Movimentação – Concluído 24/05/2025
+2.3.	Sistema de sprites – Concluído 24/05/2025
+
+3.	Desenvolvendo o sistema de armas – 24/05/2025
+3.1.	Adicionar o sistema de arma pai - Concluído 25/05/2025
+3.2.	Adicionar o sistema de balas - Concluído 25/05/2025
+3.3.	Sistema de pegar a arma, trocar e jogar a arma - Concluído 25/05/2025
+OBS: Mudanças de plano, devido a alteração da escolha de inventario, agora so vai ser 2 slotes por personagem.
+Massani - Fiz um sistema simples de cada, onde teve criação do objeto arma pai, balas pai e finalizar o sistema de pegar, armazenar e trocar as armas
+
+4. Melhorando o inventario graficamente e outros
+4.1. Fazer que a arma atual gire em torno do player
+4.2. Animação de giro da arma jogada
+4.3. Partículas ou poeira ao cair
+4.4. Quando a arma é criada (dropada)
